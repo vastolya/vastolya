@@ -4,4 +4,3 @@
 > [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,git)](https://skillicons.dev)
 ### Links
 > [![My Links](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
-1
