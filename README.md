@@ -1,7 +1,7 @@
-### Anatoly - 30 y.o.
-> I am dreaming to find synergy between visual mediums such as video and frontend-development. This is all about the same: user experience with shape, color, sound and dopamine.
+### Anatoly - 30 y.o. - Thailand, Bangkok
+> Hi, everyone! Nice to see you here!
 ### Skills
-> [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,git)](https://skillicons.dev)
+> [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,nodejs,express,git)](https://skillicons.dev)
 ### Links
 >[![My Links](https://skillicons.dev/icons?i=linkedin)]([https://skillicons.dev](https://www.linkedin.com/in/anatoly-vasilev-522649238/))
 
