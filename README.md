@@ -1,4 +1,4 @@
-### Anatoly - 30 y.o. - Thailand, Bangkok
+### Anatoly - 30 y.o. - Based Thailand, Bangkok
 >ㅤ
 > [<img align="left" alt="CodeWars" width="300px" src="https://www.codewars.com/users/vastolya/badges/large"/>](https://www.codewars.com/users/vastolya)
 >ㅤ
