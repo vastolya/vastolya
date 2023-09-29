@@ -1,8 +1,4 @@
-### Anatoly - 30 y.o. - Based Thailand, Bangkok
->ㅤ
-> [<img align="left" alt="CodeWars" width="300px" src="https://www.codewars.com/users/vastolya/badges/large"/>](https://www.codewars.com/users/vastolya)
->ㅤ
-### Skills
+
 > [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,nodejs,express,git)](https://skillicons.dev)
 > 
 > [![My Skills](https://skillicons.dev/icons?i=ae,pr,au,ps,figma)](https://skillicons.dev)
