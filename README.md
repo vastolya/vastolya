@@ -1,5 +1,5 @@
 
-> [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,nodejs,express,git)](https://skillicons.dev)
+> [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,next,tailwind,nodejs,express,git)](https://skillicons.dev)
 > 
 > [![My Skills](https://skillicons.dev/icons?i=ae,pr,au,ps,figma)](https://skillicons.dev)
 ### Links
